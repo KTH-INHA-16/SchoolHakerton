@@ -18,5 +18,4 @@ IoT는 라즈베이파이
 
 아래는 실제 교내대회 수상이후 해당 주제를 가지고 특허 등록을 마친 결과입니다.
 
-
-<img width="1360" alt="스크린샷 2021-03-17 오후 9 57 17" src="https://user-images.githubusercontent.com/56541331/111470994-c3bb1400-876b-11eb-90ee-3262992766a3.png">
+<img width="1792" alt="스크린샷 2021-04-02 오후 11 17 27" src="https://user-images.githubusercontent.com/56541331/113423644-d2f7be00-9409-11eb-9989-070948af1fb8.png">
